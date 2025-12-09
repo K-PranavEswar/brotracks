@@ -1,9 +1,3 @@
-Here is a **perfect, professional, complete `README.md`** tailored exactly for your **BroTracks** folder structure and features.
-
-You can directly copy–paste this into your GitHub repository.
-
----
-
 # 🚖 **BroTracks – Smart School Transport Tracking System**
 
 *A secure fleet & student ride management platform built using PHP, MySQL, JavaScript and Bootstrap.*
